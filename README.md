@@ -10,7 +10,7 @@
 
 - 🔭 I’m a Computer Science student passionate about **Web Development 💻** | **Algorithms 📱** .
 
-- 🌱 All of my projects are available at **[My Repository](https://github.com/alaa-mekibes'?page=1&tab=repositories)**.
+- 🌱 All of my projects are available at **[My Repository](https://github.com/alaa-mekibes?page=1&tab=repositories)**.
 
 <br>
 <div align="center">
