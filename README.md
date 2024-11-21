@@ -8,7 +8,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently studying as a **Computer Science Student** | **Web Development 💻** | **Algorithms 📱** .
+- 🔭 I’m a Computer Science student passionate about **Web Development 💻** | **Algorithms 📱** .
 
 - 🌱 All of my projects are available at **[My Repository](https://github.com/alaa-mekibes'?page=1&tab=repositories)**.
 
@@ -48,12 +48,15 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/alaa-mekibes'/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=alaa-mekibes'">
+<a href="https://github.com/alaa-mekibes/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=alaa-mekibes" alt="Profile Views">
 </a>
-<a href="https://github.com/alaa-mekibes'?tab=followers"><img src="https://img.shields.io/github/followers/alaa-mekibes'?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/alaa-mekibes?tab=followers">
+    <img src="https://img.shields.io/github/followers/alaa-mekibes?label=Followers&style=social" alt="GitHub Followers">
+</a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;Computer+Science+Is+My+Life+❤️">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+LinkedIn!;Computer+Science+Is+My+Life+❤️" alt="Typing SVG">
 </h3>
+
 
 <br/>
