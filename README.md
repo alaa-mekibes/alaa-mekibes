@@ -38,7 +38,7 @@
     </a>
 </p>
 <a href="https://github.com/alaa-mekibes/github-readme-stats">
-    <img alt="alaa-mekibes'sss Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaa-mekibes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="alaa-mekibes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaa-mekibes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/alaa-mekibes/github-readme-stats">
     <img alt="alaa-mekibes's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-mekibes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
