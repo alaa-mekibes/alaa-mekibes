@@ -21,11 +21,11 @@
 
 <br>
 
-## 🚀 Languages and Tools
+## � Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Languages">
-  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools"><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=github,vscode" alt="Tools"><br>
 </div>
 
 <br>
@@ -39,7 +39,10 @@
 ## 📊 My Stats
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alaa-mekibes)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=alaa-mekibes" alt="GitHub Streak">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/alaa-mekibes/github-readme-stats">
