@@ -24,8 +24,8 @@
 ## 🚀 Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript" alt="Languages">
-  <img src="https://skillicons.dev/icons?i=github,vscode" alt="Tools"><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools"><br>
 </div>
 
 <br>
