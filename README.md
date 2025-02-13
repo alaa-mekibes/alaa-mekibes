@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="About Me GIF">
+  <img src="https://i.ibb.co/wr4hvxDS/about-me.gif" width="100px" alt="About Me GIF">
 </p>
 
 <div align="center">
@@ -21,11 +21,11 @@
 
 <br>
 
-## � Languages and Tools
+## 🚀 Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript" alt="Languages">
-  <img src="https://skillicons.dev/icons?i=github,vscode" alt="Tools"><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools"><br>
 </div>
 
 <br>
@@ -37,12 +37,6 @@
 <br>
 
 ## 📊 My Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=alaa-mekibes" alt="GitHub Streak">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/alaa-mekibes/github-readme-stats">
