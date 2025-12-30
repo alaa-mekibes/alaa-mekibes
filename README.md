@@ -41,14 +41,9 @@
 
 ## 📊 My Stats
 
-<p align="center">
-  <a href="https://github.com/alaa-mekibes/github-readme-stats">
-    <img alt="Alaa Mekibes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaa-mekibes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-  </a>
-  <a href="https://github.com/alaa-mekibes/github-readme-stats">
-    <img alt="Alaa Mekibes's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-mekibes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=alaa-mekibes&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alaa-mekibes&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-mekibes&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
 
