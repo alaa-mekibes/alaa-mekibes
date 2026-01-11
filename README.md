@@ -39,19 +39,7 @@
 
 <br>
 
-## 📊 My Stats
-
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa-mekibes&show_icons=true&theme=transparent)
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
-
-<br>
-
-## 💜 Views and Followers
+## 💙 Views and Followers
 
 <p align="center">
   <a href="https://github.com/alaa-mekibes/github-profile-views-counter">
