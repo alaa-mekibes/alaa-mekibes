@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="Languages"><br>
   <img src="https://skillicons.dev/icons?i=react,tailwindcss" alt="front-end stack"><br>
   <img src="https://skillicons.dev/icons?i=nodejs,expressjs" alt="back-end stack"><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma" alt="database stack"><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb" alt="database stack"><br>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools"><br>
 </div>
 
